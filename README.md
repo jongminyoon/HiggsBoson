@@ -27,9 +27,9 @@ and so on. This suggests that Julia is a natural choice of programming language 
 
 ## List of notebooks 
 Our work focuses on an SO(5)xU(1) model of Gauge-Higgs Unification. However, it is straightforward to generalized our codes into other models.
-1. [RGE](RGE) Compute values of relevant parameters at 2 TeV energy scale using Renormalization Group Equations. 
-2. [SO5](SO5) Compute the minimum of the Higgs potential. Find parameter space with observed Higgs mass. Compute Z' masses in the allowed region. Both for colored top partner and uncolored top partner.
-3. [Pair production](SO5/eeff) Pair production helicity cross section deviations in SO(5) models compared to the Standard Model.
+1. [RGE](RGE): Compute values of relevant parameters at 2 TeV energy scale using Renormalization Group Equations. 
+2. [SO5](SO5): Compute the minimum of the Higgs potential. Find parameter space with observed Higgs mass. Compute Z' masses in the allowed region. Both for colored top partner and uncolored top partner.
+3. [Pair production](SO5/eeff): Pair production helicity cross section deviations in SO(5) models compared to the Standard Model.
 
 
 
